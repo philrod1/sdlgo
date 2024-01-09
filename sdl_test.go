@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo"
+	"github.com/philrod1/sdlgo"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

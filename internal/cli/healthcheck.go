@@ -24,7 +24,7 @@ package cli
 
 import (
 	"fmt"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/sdlgoredis"
+	"github.com/philrod1/sdlgo/internal/sdlgoredis"
 	"github.com/spf13/cobra"
 	"os"
 	"text/tabwriter"

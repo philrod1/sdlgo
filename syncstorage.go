@@ -27,7 +27,7 @@ import (
 	"encoding/base64"
 	"errors"
 	"fmt"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/sdlgoredis"
+	"github.com/philrod1/sdlgo/internal/sdlgoredis"
 	"hash/crc32"
 	"io"
 	"reflect"

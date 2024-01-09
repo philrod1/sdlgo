@@ -24,7 +24,7 @@ package cli_test
 import (
 	"bytes"
 	"errors"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/cli"
+	"github.com/philrod1/sdlgo/internal/cli"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

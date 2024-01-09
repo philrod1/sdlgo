@@ -25,8 +25,8 @@ package cli_test
 import (
 	"bytes"
 	"fmt"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/cli"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/mocks"
+	"github.com/philrod1/sdlgo/internal/cli"
+	"github.com/philrod1/sdlgo/internal/mocks"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

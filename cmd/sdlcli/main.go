@@ -23,7 +23,7 @@
 package main
 
 import (
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/cli"
+	"github.com/philrod1/sdlgo/internal/cli"
 )
 
 func main() {

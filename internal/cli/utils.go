@@ -24,7 +24,7 @@ package cli
 
 import (
 	"bytes"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/sdlgoredis"
+	"github.com/philrod1/sdlgo/internal/sdlgoredis"
 )
 
 var (

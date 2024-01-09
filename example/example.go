@@ -25,7 +25,7 @@ package main
 import (
 	"fmt"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo"
+	"github.com/philrod1/sdlgo"
 )
 
 var sdl *sdlgo.SyncStorage

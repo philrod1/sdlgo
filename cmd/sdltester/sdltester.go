@@ -27,7 +27,7 @@ import (
 	"os"
 	"time"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo"
+	"github.com/philrod1/sdlgo"
 )
 
 /*

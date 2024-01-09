@@ -22,7 +22,7 @@ import (
 	"errors"
 	"testing"
 
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo"
+	"github.com/philrod1/sdlgo"
 	"github.com/stretchr/testify/assert"
 )
 

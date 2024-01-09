@@ -25,7 +25,7 @@ package sdlgoredis_test
 import (
 	"context"
 	"errors"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/sdlgoredis"
+	"github.com/philrod1/sdlgo/internal/sdlgoredis"
 	"github.com/go-redis/redis/v8"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"

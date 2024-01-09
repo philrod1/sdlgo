@@ -1,4 +1,6 @@
-module gerrit.o-ran-sc.org/r/ric-plt/sdlgo
+module github.com/philrod1/sdlgo
+
+// module gerrit.o-ran-sc.org/r/ric-plt/sdlgo
 
 go 1.20
 
@@ -19,4 +21,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
-replace gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/sdlgoredis => ./internal/sdlgoredis
+replace github.com/philrod1/sdlgo/internal/sdlgoredis => ./internal/sdlgoredis

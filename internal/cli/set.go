@@ -24,8 +24,8 @@ package cli
 
 import (
 	"bytes"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo/internal/sdlgoredis"
+	"github.com/philrod1/sdlgo"
+	"github.com/philrod1/sdlgo/internal/sdlgoredis"
 	"github.com/spf13/cobra"
 	"os"
 )
