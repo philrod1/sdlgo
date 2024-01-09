@@ -22,3 +22,5 @@ require (
 )
 
 replace github.com/philrod1/sdlgo/internal/sdlgoredis => ./internal/sdlgoredis
+
+replace gerrit.o-ran-sc.org/r/ric-plt/sdlgo => github.com/philrod1/sdlgo v0.0.0-20240109094109-434955a0fd6b
